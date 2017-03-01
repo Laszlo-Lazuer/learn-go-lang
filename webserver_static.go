@@ -1,4 +1,4 @@
-//Example of a HTTP server with Go from: https://golang.org/doc/articles/wiki/#tmp_13
+//Example of a HTTP server serving static pages
 //A.Laszlo Lazuer
 
 package main
